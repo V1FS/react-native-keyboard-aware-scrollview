@@ -8,8 +8,9 @@ import {
   View,
   TouchableHighlight,
   RecyclerViewBackedScrollView,
-  ListView
 } from 'react-native';
+
+import { ListView } from 'deprecated-react-native-listview';
 
 import {KeyboardAwareScrollView, KeyboardAwareListView} from 'react-native-keyboard-aware-scrollview'
 

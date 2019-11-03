@@ -18,6 +18,7 @@
   "author": "Artal Druk <artald@wix.com>",
   "license": "MIT",
   "peerDependencies": {
+    "deprecated-react-native-listview": "^0.0.6",
     "react-native": ">=0.25.1",
     "react": ">=0.14.5"
   }
