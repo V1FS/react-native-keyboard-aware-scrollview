@@ -3,7 +3,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 
-import { ListView } from 'deprecated-react-native-listview';
+import ListView from 'deprecated-react-native-listview';
 
 import KeyboardAwareBase from './KeyboardAwareBase'
 
